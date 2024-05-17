@@ -1,5 +1,5 @@
 import { Card } from "./_ui/card";
-import { StickyHeader } from "./_ui/stickty-header";
+import { StickyHeader } from "./_ui/sticky-header";
 
 export default function Home() {
   return (
